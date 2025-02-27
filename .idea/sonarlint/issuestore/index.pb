@@ -9,3 +9,7 @@ Y
 )contracts/temporal-anomaly-detection.clar,2/b/2b2864b238aba31ea24080ad7d4de7de3993dd00
 X
 (tests/temporal-anomaly-detection.test.ts,9/9/99349825f480be853e7fa803be8f1991de12d254
+Q
+!contracts/paradox-prevention.clar,5/5/553100a07c7c2ab185505cc8d955e10f677168de
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
