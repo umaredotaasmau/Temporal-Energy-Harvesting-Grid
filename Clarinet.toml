@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/chronon-capture.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.temporal-anomaly-detection]
+path = 'contracts/temporal-anomaly-detection.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
